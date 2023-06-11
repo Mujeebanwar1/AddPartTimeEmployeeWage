@@ -1,0 +1,15 @@
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\AddPartTimeEmployeeWage\bin\Debug\net6.0\AddPartTimeEmployeeWage.exe
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\AddPartTimeEmployeeWage\bin\Debug\net6.0\AddPartTimeEmployeeWage.deps.json
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\AddPartTimeEmployeeWage\bin\Debug\net6.0\AddPartTimeEmployeeWage.runtimeconfig.json
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\AddPartTimeEmployeeWage\bin\Debug\net6.0\AddPartTimeEmployeeWage.dll
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\AddPartTimeEmployeeWage\bin\Debug\net6.0\AddPartTimeEmployeeWage.pdb
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\AddPartTimeEmployeeWage\obj\Debug\net6.0\AddPartTimeEmployeeWage.csproj.AssemblyReference.cache
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\AddPartTimeEmployeeWage\obj\Debug\net6.0\AddPartTimeEmployeeWage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\AddPartTimeEmployeeWage\obj\Debug\net6.0\AddPartTimeEmployeeWage.AssemblyInfoInputs.cache
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\AddPartTimeEmployeeWage\obj\Debug\net6.0\AddPartTimeEmployeeWage.AssemblyInfo.cs
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\AddPartTimeEmployeeWage\obj\Debug\net6.0\AddPartTimeEmployeeWage.csproj.CoreCompileInputs.cache
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\AddPartTimeEmployeeWage\obj\Debug\net6.0\AddPartTimeEmployeeWage.dll
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\AddPartTimeEmployeeWage\obj\Debug\net6.0\refint\AddPartTimeEmployeeWage.dll
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\AddPartTimeEmployeeWage\obj\Debug\net6.0\AddPartTimeEmployeeWage.pdb
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\AddPartTimeEmployeeWage\obj\Debug\net6.0\AddPartTimeEmployeeWage.genruntimeconfig.cache
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\AddPartTimeEmployeeWage\obj\Debug\net6.0\ref\AddPartTimeEmployeeWage.dll

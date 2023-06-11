@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddPartTimeEmployeeWage", "AddPartTimeEmployeeWage.csproj", "{ABBA8C4B-6F9F-4B2B-B7F3-11CE38FFD7FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABBA8C4B-6F9F-4B2B-B7F3-11CE38FFD7FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABBA8C4B-6F9F-4B2B-B7F3-11CE38FFD7FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABBA8C4B-6F9F-4B2B-B7F3-11CE38FFD7FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABBA8C4B-6F9F-4B2B-B7F3-11CE38FFD7FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7741628E-5051-4C0A-8D96-87F6D8CE6C20}
+	EndGlobalSection
+EndGlobal
